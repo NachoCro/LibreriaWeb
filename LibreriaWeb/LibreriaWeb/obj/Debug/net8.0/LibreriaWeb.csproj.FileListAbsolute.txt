@@ -1,0 +1,15 @@
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.GeneratedMSBuildEditorConfig.editorconfig
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.AssemblyInfoInputs.cache
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.AssemblyInfo.cs
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.csproj.CoreCompileInputs.cache
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.sourcelink.json
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/bin/Debug/net8.0/LibreriaWeb
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/bin/Debug/net8.0/LibreriaWeb.deps.json
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/bin/Debug/net8.0/LibreriaWeb.runtimeconfig.json
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/bin/Debug/net8.0/LibreriaWeb.dll
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/bin/Debug/net8.0/LibreriaWeb.pdb
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.dll
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/refint/LibreriaWeb.dll
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.pdb
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/LibreriaWeb.genruntimeconfig.cache
+/home/nachocrocetti/Escritorio/LibreriaWeb/LibreriaWeb/obj/Debug/net8.0/ref/LibreriaWeb.dll
